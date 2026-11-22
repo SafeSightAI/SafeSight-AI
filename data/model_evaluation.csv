@@ -1,0 +1,2 @@
+Model,Training_Records,Testing_Records,Mean_Absolute_Error,Test_Year
+Random Forest Regressor,50,5,138.16,2023

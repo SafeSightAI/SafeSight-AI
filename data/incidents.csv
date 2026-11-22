@@ -1,0 +1,38 @@
+district,latitude,longitude,category,description,source,status
+Lahore,31.5204,74.3587,Crime,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Rawalpindi,33.5651,73.0169,Road Accident,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Faisalabad,31.4504,73.135,Disaster,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Multan,30.1575,71.5249,Infrastructure,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Gujranwala,32.1877,74.1945,Crime,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Bahawalpur,29.3956,71.6836,Road Accident,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Sargodha,32.0836,72.6711,Disaster,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Dera Ghazi Khan,30.0561,70.6348,Infrastructure,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Sahiwal,30.6682,73.1114,Crime,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Sialkot,32.4945,74.5229,Road Accident,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Rahim Yar Khan,28.4212,70.2989,Disaster,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Murree,33.9073,73.3943,Infrastructure,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Jhang,31.2698,72.3169,Crime,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Khanewal,30.3017,71.9321,Road Accident,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Rajanpur,29.1044,70.329,Disaster,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Muzaffargarh,30.0726,71.1938,Infrastructure,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Gujrat,32.5731,74.0789,Crime,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Bahawalnagar,29.9987,73.2536,Road Accident,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Attock,33.766,72.3609,Disaster,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Jhelum,32.9425,73.7257,Infrastructure,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Toba Tek Singh,30.9713,72.4827,Crime,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Pakpattan,30.341,73.3866,Road Accident,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Mianwali,32.5839,71.537,Disaster,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Kasur,31.1156,74.4467,Infrastructure,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Vehari,30.0452,72.3489,Crime,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Chakwal,32.9328,72.8539,Road Accident,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Okara,30.8138,73.4534,Disaster,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Hafizabad,32.0679,73.685,Infrastructure,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Sheikhupura,31.7131,73.9783,Crime,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Lodhran,29.5339,71.6337,Road Accident,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Nankana Sahib,31.45,73.706,Disaster,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Khushab,32.2967,72.35,Infrastructure,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Mandi Bahauddin,32.587,73.4912,Crime,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Narowal,32.102,74.873,Road Accident,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Layyah,30.9613,70.939,Disaster,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Bhakkar,31.6253,71.0657,Infrastructure,Fictional demonstration incident,DEMO DATA,Unverified demonstration
+Chiniot,31.72,72.9789,Crime,Fictional demonstration incident,DEMO DATA,Unverified demonstration
